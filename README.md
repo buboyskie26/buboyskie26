@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buboyskie26
 - 👀 I’m interested in learning projects that uses .NET CORE Technology and Javascript.
-- 🌱 I’m currently pursuing learning C# all the to my graduation day (if ever happen)
-- 💞️ I’m looking to collaborate ...
+- 🌱 I’m currently pursuing to learn the concepts of C# 
+- 💞️ I’m looking to collaborate to any students/professionals...
 - 📫 How to reach me ...
 
 <!---
