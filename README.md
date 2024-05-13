@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buboyskie26
 
-- Here's my resume for applying internship. [Justine_Sirios_Internship_Resume_Updated (1).pdf](https://github.com/buboyskie26/buboyskie26/files/14489429/Justine_Sirios_Internship_Resume_Updated.1.pdf)
+ 
 
 - 👀 I’m interested in learning web development and develop projects that uses .NET Framework Technologies and Javascript.
 - 🌱 I’m currently pursuing to learn the concepts of C# and Javascript and its wonderful Frameworks and likes
