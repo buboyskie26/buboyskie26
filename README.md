@@ -4,6 +4,12 @@
 
 <p>I'm Justine Adrian A Sirios, a fourth-year student studying BSCS in the Philippines. My interest in technology and its vast potential has been driving my journey in IT. While continuing my studies, I actively participate in hands-on projects and self-learning to improve my skills and deepen my understanding of the field.</p>
 
+- 👀 I’m interested in learning web development and develop projects that uses .NET Framework Technologies and Javascript Framework.
+- 🌱 I’m currently pursuing to learn the concepts of C# and Javascript
+- 💞️ I’m looking to a place to show my passion and dedication of building useful things to improve people's lives.
+
+👨‍💻 All of my works are available at my <a href="">Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/justine.sirios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
