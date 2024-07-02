@@ -5,8 +5,8 @@
 <p>I'm Justine Adrian A. Sirios, an aspiring software developer with a BSCS degree from the Philippines. My interest in technology and its vast potential has been driving my journey in IT. While continuing my studies, I actively participate in hands-on projects and self-learning to improve my skills and deepen my understanding of the field.</p>
 
 - 👀 I’m interested in learning web development and develop projects that uses .NET Framework Technologies and Javascript Framework.
-- 🌱 I’m currently pursuing to learn the concepts of C# and Javascript
-- 💞️ I’m looking to a place to show my passion and dedication of building useful things to improve people's lives.
+- 🌱 I’m currently pursuing to learn the core concepts of C# and Javascript
+- 💞️ I’m looking to a place to show my passion and dedication of building impactful things to improve communities lives and build trust with them.
 
 👨‍💻 All of my works are available at my <a href="https://buboyskie26.github.io/my_portfolio/" target="_blank">Portfolio</a>
 
